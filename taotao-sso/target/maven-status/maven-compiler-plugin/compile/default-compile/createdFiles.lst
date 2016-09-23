@@ -1,0 +1,4 @@
+us/rzweb/taotao/sso/controller/UserController.class
+us/rzweb/taotao/sso/mapper/UserMapper.class
+us/rzweb/taotao/sso/pojo/User.class
+us/rzweb/taotao/sso/service/UserService.class

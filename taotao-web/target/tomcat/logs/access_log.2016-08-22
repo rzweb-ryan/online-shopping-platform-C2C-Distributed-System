@@ -1,0 +1,15 @@
+127.0.0.1 - - [22/Aug/2016:23:47:48 -0400] "GET / HTTP/1.0" 200 108356 http-bio-8082-exec-1 3581
+127.0.0.1 - - [22/Aug/2016:23:47:48 -0400] "GET /js/lib-v1.js HTTP/1.0" 200 122665 http-bio-8082-exec-2 6
+127.0.0.1 - - [22/Aug/2016:23:47:48 -0400] "GET /images/20130725.png HTTP/1.0" 200 275 http-bio-8082-exec-3 1
+127.0.0.1 - - [22/Aug/2016:23:47:48 -0400] "GET /images/20130330A_2.png HTTP/1.0" 200 8252 http-bio-8082-exec-4 1
+127.0.0.1 - - [22/Aug/2016:23:47:48 -0400] "GET /images/20130330C.png HTTP/1.0" 200 6900 http-bio-8082-exec-5 6
+127.0.0.1 - - [22/Aug/2016:23:47:48 -0400] "GET /images/loading-jd.gif HTTP/1.0" 200 166 http-bio-8082-exec-6 4
+127.0.0.1 - - [22/Aug/2016:23:47:48 -0400] "GET /images/20130330B_1.png HTTP/1.0" 200 4620 http-bio-8082-exec-7 3
+127.0.0.1 - - [22/Aug/2016:23:47:48 -0400] "GET /images/virtuals-20140606.png HTTP/1.0" 200 3316 http-bio-8082-exec-8 1
+127.0.0.1 - - [22/Aug/2016:23:47:48 -0400] "GET /images/error-jd.gif HTTP/1.0" 200 2097 http-bio-8082-exec-9 2
+127.0.0.1 - - [22/Aug/2016:23:47:48 -0400] "GET /images/543b4d75N686689d7.jpg HTTP/1.0" 200 10963 http-bio-8082-exec-10 2
+127.0.0.1 - - [22/Aug/2016:23:47:49 -0400] "GET /favicon.ico HTTP/1.0" 404 973 http-bio-8082-exec-1 5
+127.0.0.1 - - [22/Aug/2016:23:48:27 -0400] "GET / HTTP/1.0" 200 108356 http-bio-8082-exec-2 24
+127.0.0.1 - - [22/Aug/2016:23:48:28 -0400] "GET /index.js.map HTTP/1.0" 404 975 http-bio-8082-exec-3 2
+127.0.0.1 - - [22/Aug/2016:23:52:43 -0400] "GET / HTTP/1.0" 200 108356 http-bio-8082-exec-4 11
+127.0.0.1 - - [22/Aug/2016:23:52:48 -0400] "GET /images/15.png HTTP/1.0" 200 1311 http-bio-8082-exec-5 1

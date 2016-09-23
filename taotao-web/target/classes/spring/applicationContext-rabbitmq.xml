@@ -1,0 +1,29 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rabbit="http://www.springframework.org/schema/rabbit"
+	xsi:schemaLocation="http://www.springframework.org/schema/rabbit
+	http://www.springframework.org/schema/rabbit/spring-rabbit-1.4.xsd
+	http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-4.0.xsd">
+
+	<!-- 定义RabbitMQ的连接工厂 -->
+	<rabbit:connection-factory id="connectionFactory"
+		host="${rabbitmq.host}" port="${rabbitmq.port}" username="${rabbitmq.username}" password="${rabbitmq.password}"
+		virtual-host="${rabbitmq.vhost}" />
+	
+	<!-- 定义管理 -->
+	<rabbit:admin connection-factory="connectionFactory"/>
+	
+	<!-- 定义交换机 -->
+	<rabbit:queue name="taotao-web-item-queue" durable="true" auto-declare="true"/>
+
+
+	<!--定义消费者-->
+	<bean id="itemHandler" class="us.rzweb.taotao.web.handler.ItemHandler"/>
+
+
+	<!-- 定义模板 -->
+	<rabbit:listener-container connection-factory="connectionFactory" >
+		<rabbit:listener ref="itemHandler" method="executeMessage" queue-names="taotao-web-item-queue"></rabbit:listener>
+	</rabbit:listener-container>
+
+</beans>

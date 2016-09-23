@@ -1,0 +1,16 @@
+/Users/RZ/Documents/workspace/taotao/taotao-order/src/main/java/com/taotao/store/order/pojo/PageResult.java
+/Users/RZ/Documents/workspace/taotao/taotao-order/src/main/java/com/taotao/store/order/dao/OrderDAO.java
+/Users/RZ/Documents/workspace/taotao/taotao-order/src/main/java/com/taotao/store/order/pojo/Order.java
+/Users/RZ/Documents/workspace/taotao/taotao-order/src/main/java/com/taotao/store/order/pojo/OrderItem.java
+/Users/RZ/Documents/workspace/taotao/taotao-order/src/main/java/com/taotao/store/order/mapper/OrderMapper.java
+/Users/RZ/Documents/workspace/taotao/taotao-order/src/main/java/com/taotao/store/order/bean/Where.java
+/Users/RZ/Documents/workspace/taotao/taotao-order/src/main/java/com/taotao/store/order/pojo/ResultMsg.java
+/Users/RZ/Documents/workspace/taotao/taotao-order/src/main/java/com/taotao/store/order/bean/OperaterEnum.java
+/Users/RZ/Documents/workspace/taotao/taotao-order/src/main/java/com/taotao/store/order/mapper/IMapper.java
+/Users/RZ/Documents/workspace/taotao/taotao-order/src/main/java/com/taotao/store/order/job/PaymentOrderJob.java
+/Users/RZ/Documents/workspace/taotao/taotao-order/src/main/java/com/taotao/store/order/controller/OrderController.java
+/Users/RZ/Documents/workspace/taotao/taotao-order/src/main/java/com/taotao/store/order/dao/IOrder.java
+/Users/RZ/Documents/workspace/taotao/taotao-order/src/main/java/com/taotao/store/order/bean/TaotaoResult.java
+/Users/RZ/Documents/workspace/taotao/taotao-order/src/main/java/com/taotao/store/order/pojo/OrderShipping.java
+/Users/RZ/Documents/workspace/taotao/taotao-order/src/main/java/com/taotao/store/order/service/OrderService.java
+/Users/RZ/Documents/workspace/taotao/taotao-order/src/main/java/com/taotao/store/order/util/ValidateUtil.java

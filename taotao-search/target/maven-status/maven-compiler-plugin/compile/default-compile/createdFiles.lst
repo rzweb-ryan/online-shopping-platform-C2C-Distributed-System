@@ -1,0 +1,6 @@
+us/rzweb/taotao/search/pojo/Item.class
+us/rzweb/taotao/search/controller/SearchController.class
+us/rzweb/taotao/search/service/SearchService.class
+us/rzweb/taotao/search/handler/ItemHandler.class
+us/rzweb/taotao/search/bean/SearchResult.class
+us/rzweb/taotao/search/service/ItemService.class

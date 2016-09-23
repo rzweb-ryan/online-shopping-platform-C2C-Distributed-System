@@ -1,0 +1,26 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+	http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.0.xsd">
+    <bean class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+        <!-- 允许JVM参数覆盖 -->
+        <property name="systemPropertiesModeName" value="SYSTEM_PROPERTIES_MODE_OVERRIDE"/>
+        <!-- 忽略没有找到的资源文件 -->
+        <property name="ignoreResourceNotFound" value="true"/>
+        <!-- 配置资源文件 -->
+        <property name="locations">
+            <list>
+                <value>classpath:env.properties</value>
+                <value>classpath:httpclient.properties</value>
+                <value>classpath:redis.properties</value>
+                <value>classpath:rabbitmq.properties</value>
+            </list>
+        </property>
+    </bean>
+
+    <!-- 扫描包 -->
+    <context:component-scan base-package="us.rzweb"/>
+
+
+</beans>
