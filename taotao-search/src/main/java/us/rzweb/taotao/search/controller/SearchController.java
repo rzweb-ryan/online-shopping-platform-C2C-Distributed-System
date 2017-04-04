@@ -18,7 +18,7 @@ public class SearchController {
     private SearchService searchService;
 
     @RequestMapping(value = "search", method = RequestMethod.GET)
-    public ModelAndView search(@RequestParam("q") String keywords,
+    public ModelAndView search(@RequestParam(value = "q", defaultValue = "apple") String keywords,
                                @RequestParam(value="page", defaultValue ="1") Integer page) {
         ModelAndView mv = new ModelAndView("search");
         try {

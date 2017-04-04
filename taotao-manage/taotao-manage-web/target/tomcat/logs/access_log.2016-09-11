@@ -1,9 +1,0 @@
-127.0.0.1 - - [11/Sep/2016:22:32:13 -0400] "GET /rest/content?categoryId=48&page=1&rows=6 HTTP/1.0" 200 1435 http-bio-8081-exec-1 706
-127.0.0.1 - - [11/Sep/2016:22:32:13 -0400] "GET /rest/content?categoryId=49&page=1&rows=1 HTTP/1.0" 200 255 http-bio-8081-exec-2 15
-127.0.0.1 - - [11/Sep/2016:22:32:20 -0400] "GET /rest/item/41 HTTP/1.0" 200 167 http-bio-8081-exec-3 61
-127.0.0.1 - - [11/Sep/2016:22:32:20 -0400] "GET /rest/item/desc/41 HTTP/1.0" 200 88 http-bio-8081-exec-4 33
-127.0.0.1 - - [11/Sep/2016:22:32:20 -0400] "GET /rest/item/param/item/41 HTTP/1.0" 200 683 http-bio-8081-exec-5 86
-127.0.0.1 - - [11/Sep/2016:22:50:42 -0400] "GET /rest/content?categoryId=48&page=1&rows=6 HTTP/1.0" 200 1435 http-bio-8081-exec-6 48
-127.0.0.1 - - [11/Sep/2016:22:50:42 -0400] "GET /rest/content?categoryId=49&page=1&rows=1 HTTP/1.0" 200 255 http-bio-8081-exec-7 19
-127.0.0.1 - - [11/Sep/2016:23:46:10 -0400] "GET /rest/content?categoryId=48&page=1&rows=6 HTTP/1.0" 200 1435 http-bio-8081-exec-1 960
-127.0.0.1 - - [11/Sep/2016:23:46:11 -0400] "GET /rest/content?categoryId=49&page=1&rows=1 HTTP/1.0" 200 255 http-bio-8081-exec-2 12

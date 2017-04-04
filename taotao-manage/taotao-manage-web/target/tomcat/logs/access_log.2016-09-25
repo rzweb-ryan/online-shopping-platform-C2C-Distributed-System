@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [25/Sep/2016:00:05:03 -0400] "GET /rest/api/item/cat?callback=category.getDataService HTTP/1.1" 200 30461 http-bio-8081-exec-8 1040
+0:0:0:0:0:0:0:1 - - [25/Sep/2016:00:05:35 -0400] "GET /rest/api/item/cat?callback=category.getDataService HTTP/1.1" 200 30461 http-bio-8081-exec-10 791
+0:0:0:0:0:0:0:1 - - [25/Sep/2016:00:05:45 -0400] "GET /rest/api/item/cat?callback=category.getDataService HTTP/1.1" 200 30461 http-bio-8081-exec-3 803
+0:0:0:0:0:0:0:1 - - [25/Sep/2016:00:09:19 -0400] "GET /rest/api/item/cat?callback=category.getDataService HTTP/1.1" 200 30487 http-bio-8081-exec-1 7809

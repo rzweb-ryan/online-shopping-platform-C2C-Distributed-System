@@ -29,4 +29,10 @@ public class IndexController {
         return mv;
     }
 
+
+    @RequestMapping(value="redirect",method = RequestMethod.GET)
+    public String redirectToGitHub() {
+        String path = "https://github.com/rzweb-ryan/Distributed-System-online-shopping-platform-C2C-maven";
+        return "redirect:" + path;
+    }
 }

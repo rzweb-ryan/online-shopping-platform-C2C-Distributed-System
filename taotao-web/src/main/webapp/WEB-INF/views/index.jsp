@@ -199,7 +199,7 @@ pageConfig.DATA_MScroll =[
 <div id="jdnews" class="m m1" >
 <div class="mt">
 <h2>淘淘快报</h2>
-<div class="extra" clstag="homepage|keycount|home2013|11a"><a href="http://www.jd.com/moreSubject.aspx" target="_blank">更多快报&nbsp;&gt;</a></div>
+<div class="extra" clstag="homepage|keycount|home2013|11a"><a href="http://www.taotao.rzweb.us/moreSubject.aspx" target="_blank">更多快报&nbsp;&gt;</a></div>
 </div>
 <div class="mc">
 	<ul>
@@ -259,21 +259,21 @@ pageConfig.DATA_MScroll =[
 <div class="mc">
 <div class="style1">
 <ul class="lh" clstag="homepage|keycount|home2013|18a">
-	<li><a href="http://www.360buy.com/products/652-653-000.html">手机</a></li>
-	<li><a href="http://www.jd.com/products/737-794-870-0-0-0-0-0-0-0-1-1-1-1-33.html">空调</a></li>
-	<li><a href="http://www.360buy.com/products/652-830-000.html">手机配件</a></li>
-	<li><a href="http://www.jd.com/products/737-794-798-0-0-0-0-0-0-0-1-1-1-1-72-33.html">平板电视</a></li>
-	<li><a href="http://channel.jd.com/yunyingshang.html">话费补贴</a></li>
-	<li><a href="http://www.jd.com/products/737-794-878-0-0-0-0-0-0-0-1-1-1-1-72-33.html">冰箱</a></li>
-	<li><a href="http://www.jd.com/products/737-738-000.html">生活电器</a></li>
-	<li><a href="http://www.jd.com/products/737-794-880-0-0-0-0-0-0-0-1-1-1-1-72-33.html">洗衣机</a></li>
-	<li><a href="http://www.jd.com/products/737-752-000.html">厨房电器</a></li>
-	<li><a href="http://www.jd.com/products/737-794-1706-0-0-0-0-0-0-0-1-1-1-1-72-33.html">热水器</a></li>
-	<li><a href="http://www.jd.com/products/737-1276-000.html">个护健康</a></li>
-	<li><a href="http://www.jd.com/products/737-794-1300-0-0-0-0-0-0-0-1-1-1-1-72-33.html">烟机/灶具</a></li>
-	<li><a href="http://www.jd.com/products/737-1277-000.html">五金家装</a></li>
-	<li><a href="http://www.jd.com/products/737-794-823-0-0-0-0-0-0-0-1-1-1-1-72-33.html">家庭影院</a></li>
-	<li><a href="http://www.jd.com/products/737-794-1707-0-0-0-0-0-0-0-1-1-1-1-72-33.html">酒柜冷柜</a></li>
+	<li><a href="http://www.taotao.rzweb.us/products/652-653-000.html">手机</a></li>
+	<li><a href="http://www.taotao.rzweb.us/products/737-794-870-0-0-0-0-0-0-0-1-1-1-1-33.html">空调</a></li>
+	<li><a href="http://www.taotao.rzweb.us/products/652-830-000.html">手机配件</a></li>
+	<li><a href="http://www.taotao.rzweb.us/products/737-794-798-0-0-0-0-0-0-0-1-1-1-1-72-33.html">平板电视</a></li>
+	<li><a href="http://www.taotao.rzweb.us/yunyingshang.html">话费补贴</a></li>
+	<li><a href="http://www.taotao.rzweb.us/products/737-794-878-0-0-0-0-0-0-0-1-1-1-1-72-33.html">冰箱</a></li>
+	<li><a href="http://www.taotao.rzweb.us/products/737-738-000.html">生活电器</a></li>
+	<li><a href="http://www.taotao.rzweb.us/products/737-794-880-0-0-0-0-0-0-0-1-1-1-1-72-33.html">洗衣机</a></li>
+	<li><a href="http://www.taotao.rzweb.us/products/737-752-000.html">厨房电器</a></li>
+	<li><a href="http://www.taotao.rzweb.us/products/737-794-1706-0-0-0-0-0-0-0-1-1-1-1-72-33.html">热水器</a></li>
+	<li><a href="http://www.taotao.rzweb.us/products/737-1276-000.html">个护健康</a></li>
+	<li><a href="http://www.taotao.rzweb.us/products/737-794-1300-0-0-0-0-0-0-0-1-1-1-1-72-33.html">烟机/灶具</a></li>
+	<li><a href="http://www.taotao.rzweb.us/products/737-1277-000.html">五金家装</a></li>
+	<li><a href="http://www.taotao.rzweb.us/products/737-794-823-0-0-0-0-0-0-0-1-1-1-1-72-33.html">家庭影院</a></li>
+	<li><a href="http://www.taotao.rzweb.us/products/737-794-1707-0-0-0-0-0-0-0-1-1-1-1-72-33.html">酒柜冷柜</a></li>
 	<li><a href="http://channel.jd.com/auto.html">汽车用品</a></li>
 </ul>
 <span clstag="homepage|keycount|home2013|18b">

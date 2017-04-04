@@ -101,7 +101,7 @@ function addToFavorite() {
         </div>
     </div>
     <div class="mc">
-        <form id="personRegForm" method="POST" onsubmit="return false;">
+        <form id="personRegForm" method="post" onsubmit="return false;">
             <input type="hidden" name="regType" id="regType" value="person"/>
             <input type="hidden" name="uuid" id="uuid" value="${uuid}"/>
             <input type="hidden" name="verifymc" id="verifymc" value=""/>

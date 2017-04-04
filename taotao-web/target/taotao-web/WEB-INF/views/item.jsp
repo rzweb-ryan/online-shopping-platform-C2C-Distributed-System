@@ -8,8 +8,8 @@
 	<title>${item.title } - 淘淘</title>
 	<script>var jdpts = new Object(); jdpts._st = new Date().getTime();</script>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<link rel="stylesheet" type="text/css" href="/css/taotao.css" media="all" />
-	<link rel="stylesheet" type="text/css" href="/css/pshow.css" media="all" />
+	<link rel="stylesheet" type="text/css" href="http://static.taotao.rzweb.us/css/taotao.css" media="all" />
+	<link rel="stylesheet" type="text/css" href="http://static.taotao.rzweb.us/css/pshow.css" media="all" />
 	<script type="text/javascript">
     	window.pageConfig = {
 			compatible: true,
@@ -135,7 +135,7 @@
 		        <li id="choose-result"><div class="dt"></div><div class="dd"></div></li>
 				<li id="choose-btns">
 					<div id="choose-btn-append"  class="btn">
-							<a class="btn-append " id="InitCartUrl" href="http://www.taotao.com/cart/add/${item.id}.html" clstag="shangpin|keycount|product|initcarturl">加入购物车<b></b></a>
+							<a class="btn-append " id="InitCartUrl" href="http://cart.taotao.rzweb.us/cart/${item.id}.html" clstag="shangpin|keycount|product|initcarturl">加入购物车<b></b></a>
 					</div>
 					<div id="choose-btn-easybuy" class="btn"></div>
 					<div id="choose-btn-divide" class="btn"></div>
@@ -295,17 +295,17 @@
 	</div><!--right end-->
 	
 	<div class="left">
-		<div id="miaozhen7886" class="m"><a href="http://c.nfa.jd.com/adclick?sid=2&amp;cid=163&amp;aid=817&amp;bid=7853&amp;unit=69570&amp;advid=156740&amp;guv=&amp;url=http://sale.jd.com/act/IFkpQYSVnG1Jet.html" target="_blank"><img data-img="2" width="211" height="261" src="http://image.taotao.com/images/2014/10/23/2014102305423212301343.jpg" class="loading-style2"></a></div>
-		<div id="miaozhen7886" class="m"><a href="http://c.nfa.jd.com/adclick?sid=2&amp;cid=163&amp;aid=817&amp;bid=7853&amp;unit=69570&amp;advid=156740&amp;guv=&amp;url=http://sale.jd.com/act/IFkpQYSVnG1Jet.html" target="_blank"><img data-img="2" width="211" height="261" src="http://image.taotao.com/images/2014/10/23/2014102305423212301343.jpg" class="loading-style2"></a></div>
+		<div id="miaozhen7886" class="m"><a href="http://c.nfa.jd.com/adclick?sid=2&amp;cid=163&amp;aid=817&amp;bid=7853&amp;unit=69570&amp;advid=156740&amp;guv=&amp;url=http://sale.jd.com/act/IFkpQYSVnG1Jet.html" target="_blank"><img data-img="2" width="211" height="261" src="http://image.taotao.rzweb.us/images/2014/10/23/2014102305423212301343.jpg" class="loading-style2"></a></div>
+		<div id="miaozhen7886" class="m"><a href="http://c.nfa.jd.com/adclick?sid=2&amp;cid=163&amp;aid=817&amp;bid=7853&amp;unit=69570&amp;advid=156740&amp;guv=&amp;url=http://sale.jd.com/act/IFkpQYSVnG1Jet.html" target="_blank"><img data-img="2" width="211" height="261" src="http://image.taotao.rzweb.us/images/2014/10/23/2014102305423212301343.jpg" class="loading-style2"></a></div>
 	</div><!--left end-->
 	<span class="clr"></span>
 </div>
 <!-- footer start -->
 <jsp:include page="../commons/footer.jsp" />
 <!-- footer end -->
-<script type="text/javascript" src="/js/jquery-1.2.6.min.js"></script>
-<script type="text/javascript" src="/js/lib-v1.js"></script>
-<script type="text/javascript" src="/js/product.js"></script>
-<script type="text/javascript" src="/js/iplocation_server.js"></script>
+<script type="text/javascript" src="http://static.taotao.rzweb.us/js/jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="http://static.taotao.rzweb.us/js/lib-v1.js"></script>
+<script type="text/javascript" src="http://static.taotao.rzweb.us/js/product.js"></script>
+<script type="text/javascript" src="http://static.taotao.rzweb.us/js/iplocation_server.js"></script>
 </body>
 </html>

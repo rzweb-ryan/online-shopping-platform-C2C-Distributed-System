@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [24/Sep/2016:23:38:41 -0400] "GET /rest/api/item/cat?callback=category.getDataService HTTP/1.1" 200 30461 http-bio-8081-exec-2 3629
+0:0:0:0:0:0:0:1 - - [24/Sep/2016:23:38:42 -0400] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8081-exec-7 8
+0:0:0:0:0:0:0:1 - - [24/Sep/2016:23:57:25 -0400] "GET /rest/api/item/cat?callback=category.getDataService HTTP/1.1" 200 30461 http-bio-8081-exec-1 8133

@@ -67,9 +67,18 @@
     -->
     <url-pattern>*.html</url-pattern>
   </servlet-mapping>
-
+  <servlet-mapping>
+    <servlet-name>taotao-web</servlet-name>
+    <!--可用配置:
+      *.xxx,/,/xxx/*
+      不可用配置:
+      /*
+    -->
+    <url-pattern>/service/*</url-pattern>
+  </servlet-mapping>
   <welcome-file-list>
     <welcome-file>index.html</welcome-file>
+    <!--<welcome-file>redirect.html</welcome-file>-->
   </welcome-file-list>
 
 </web-app>
